@@ -1,0 +1,15 @@
+{
+  "name": "ioc",
+  "version": "1.0.0",
+  "description": "test inversion of control in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "awilix": "^4.2.6",
+    "axios": "^0.19.2"
+  }
+}
